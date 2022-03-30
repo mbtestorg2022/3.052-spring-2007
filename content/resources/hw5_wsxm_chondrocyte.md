@@ -8,6 +8,7 @@ description: 'For homeworks 2 and 5, the supporting WSxM image files (hw2_wsxm_n
   because it will destroy the binary data!'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/53222b54218fb5a84f6bc324799613ae_hw5_wsxm_chondrocyte.zip
 file_type: application/zip
+parent_uid: 922432df-afab-e294-318b-a73cbb705744
 resourcetype: Other
 title: hw5_wsxm_chondrocyte.zip
 uid: 53222b54-218f-b5a8-4f6b-c324799613ae

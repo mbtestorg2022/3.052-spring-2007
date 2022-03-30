@@ -8,6 +8,7 @@ description: 'Supporting WSxM image files for homeworks 2 and 5, (hw2_wsxm_nanop
   because it will destroy the binary data!'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/4865ce0b25fada8cdace1125aaf64e0d_hw2_wsxm_nanoparticle.zip
 file_type: application/zip
+parent_uid: 922432df-afab-e294-318b-a73cbb705744
 resourcetype: Other
 title: hw2_wsxm_nanoparticle.zip
 uid: 4865ce0b-25fa-da8c-dace-1125aaf64e0d

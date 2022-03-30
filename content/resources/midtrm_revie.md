@@ -3,6 +3,7 @@ content_type: resource
 description: Review for the first exam of the course.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/fa3587d7331494f3f63fa85bf5b5301d_midtrm_revie.pdf
 file_type: application/pdf
+parent_uid: 31f738a4-c74a-02ab-f600-670dd8954027
 resourcetype: Document
 title: midtrm_revie.pdf
 uid: fa3587d7-3314-94f3-f63f-a85bf5b5301d
